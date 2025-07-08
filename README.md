@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Sakibul Alam</h1>
-<h3 align="center">Passionate Software Engineer | AI & Web Development Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">Passionate Software Engineer | AI & Web Development Enthusiast from Bangladesh 🇧🇩</h3><br><br>
 
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ4c3BhangyanplZmFvaWNpaTM2bTNraDVqOWdwZmVzMXpkZXdhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
