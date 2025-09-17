@@ -7,48 +7,54 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
 
-- 🔭 Currently building: **[JobFinder - Job Portal](https://github.com/sakibscript/Job_Portal)**
-- 🌱 Learning: **MERN Stack, DevOps, AI & Machine Learning**
-- 🤝 Open to collaborating on: **AI + Web Dev Projects**
-- 💬 Ask me about: **React, Next.js, Tailwind, NestJS, MongoDB**
-- 📫 Reach me: **sakibulalam557@gmail.com**
-- ⚡ Fun fact: *I debug more than I sleep — and I enjoy it!*
+- 🔭 Currently building: **[JobFinder - Job Portal](https://github.com/sakibscript/Job_Portal)**  
+- 🌱 Learning: **MERN Stack, DevOps, AI & Machine Learning**  
+- 🤝 Open to collaborating on: **AI + Web Dev Projects**  
+- 💬 Ask me about: **React, Next.js, Tailwind, NestJS, MongoDB**  
+- 📫 Reach me: **sakibulalam557@gmail.com**  
+- 🌐 Portfolio: **[sakib-portfolio-sandy.vercel.app](https://sakib-portfolio-sandy.vercel.app/)**  
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sakibul-alam-6ab53b325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakibul-alam-6ab53b325/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sakibul.alam.729040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sakibul.alam.729040" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sakib_intekhab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sakib_intekhab/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sakibul-alam-6ab53b325/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/sakibul.alam.729040" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/sakib_intekhab/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mongodb,mysql,python,tailwind,figma,postman,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,mysql,python,tailwind,bootstrap,figma,postman,git,github,docker,aws" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibscript&show_icons=true&theme=tokyonight-light" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibscript&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibscript&theme=tokyonight-light" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibscript&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibscript&layout=compact&theme=tokyonight-light" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibscript&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧠 Currently Exploring
+### 🧠 Currently Exploring  
 
 ```txt
 🔹 TypeScript & Scalable Backend Design  
